@@ -1,6 +1,8 @@
 # visualgc_jdk8
 The VisualGC 3.0 standalone version with enhancement for HotSpot JDK 8.
 
+源码已完全提供, 地址: https://github.com/beansoft/visualgc_java8/tree/master/visualgc_java8
+
 VisualGC 3.0 独立运行版, 支持JDK 8, 增强了部分功能.
 
 1. Support choose JVM process upon start;
